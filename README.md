@@ -4,8 +4,7 @@
 Written by: [Wulfz](https://github.com/Axua)
 
 # Features
-Admin-san is an open-source Asynchronous Admin Panel Finder made with Python3
-its one of the fastest Admin Panel Finders out there
+SYNNER is a open source tcp port scanner using syn scanning
 
 
 ##### PREREQUISITES
@@ -23,7 +22,7 @@ its one of the fastest Admin Panel Finders out there
 $ sudo apt-get --force-yes -y install git python python-pip
 ```
 
-## Getting and Running Admin-san
+## Getting and running synner
 ```sh
 $ git clone https://github.com/WeebSec/synner.git
 $ cd synner
