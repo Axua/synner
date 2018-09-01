@@ -28,7 +28,7 @@ $ sudo apt-get --force-yes -y install git python python-pip
 $ git clone https://github.com/WeebSec/synner.git
 $ cd synner
 $ sudo pip install scapy
-$ chmod 755 synner.py
+$ chmod +x synner.py
 $ ./admin-san.py
 ```
 
